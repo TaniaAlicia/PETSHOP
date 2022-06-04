@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto';
+}
+header nav{
+    background-color: black;
+    color: white;
+    }
+.idiomas{
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+.logobar{background-color: #F0A83E;
+    color: white;
+}
+.textosobreimg{
+    text-align:right;
+}
+.centradohuella{
+    text-align: center;
+}
+h1, h2, h4{
+    color: #3C2313;
+}
+.aligboton{
+    text-align:right;
+    background-image: url(../img/slide.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+.botonComederos{
+    background-color: #F0A83E;
+    color: white;
+    text-align:center;
+    }
+.letragris{
+    color: #666666;
+}
+.items{
+    color: #3C2313;
+    font-weight: bold;
+    }
+.costo{
+    color:#F0A83E
+}
+.contactanos{
+    text-align: center;  
+} 
+.insideform{
+    color: white;
+    
+}   
+.suscribirse{
+    background-color: #F0A83E;
+    color: white;
+}
+.section1footer{
+    background-color: #3C2313;
+    color: white;
+}
+.section2footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}    
+
+
+
